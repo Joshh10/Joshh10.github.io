@@ -1,5 +1,5 @@
 h1 {
-  color: hex(#FFFFFF);
+  color: rbg(255,255,255);
 }  
 
 body {
@@ -7,7 +7,7 @@ body {
 }
 
 p{
-  color: hex(#FFFFFF);
+  color: rgb(255,255,255);
 }
             
   
