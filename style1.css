@@ -1,9 +1,13 @@
 h1 {
-  color: rgb(0, 232, 15);
+  color: #FFFFFF;
 }  
 
 body {
   background-color: rgb(0, 0, 128);
+}
+
+p{
+  color: #FFFFFF;
 }
             
   
