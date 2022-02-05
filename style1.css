@@ -5,6 +5,7 @@ h1 {
 body {
   margin-right: 100px;
   margin-left: 100px;
+  background-image: url("background.jpg");
 }
 
 p{
