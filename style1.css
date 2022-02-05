@@ -3,11 +3,11 @@ h1 {
 }  
 
 body {
-  
+  background-image: url(myBackground.jpg);
 }
 
 p{
-  background-image: url(myBackground.jpg);
+  
 }
 table{
     
