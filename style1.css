@@ -3,8 +3,8 @@ h1 {
 }  
 
 body {
-  background-image: url("myBackground.jpg");
-  background-image: cover;
+  background-image: rgb(118, 115, 201);
+  
   margin-left: 600px;
   margin-right: 600px;
 }
