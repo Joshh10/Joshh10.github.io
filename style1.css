@@ -11,6 +11,8 @@ h1 {
 #body2{
   margin-left: 300px;
   margin-right: 300px;
+  background-image: url("myBackground.jpg");
+  background-image: cover;
 }
 
 #text1{
