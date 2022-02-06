@@ -13,6 +13,8 @@ body {
   text-align: left;
   background-color: rgb(255,255,255);
   background-size: 300px 100px;
+  margin-left: 300px;
+  margin-right: 300px;
 }
 td{
   padding-left: 35px;
