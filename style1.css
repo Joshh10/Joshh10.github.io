@@ -15,10 +15,12 @@ body {
   padding-left: 20px;
   
 }
+table{
+    background-color: rgb(65,105,255);
+}
 td{
   padding-left: 10px;
   padding-right: 10px;
-  background-color: rgb(65,105,255);
 }
 div{
   background-color: rgb(255,255,255);
